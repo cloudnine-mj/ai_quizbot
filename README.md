@@ -57,7 +57,7 @@ RAG(Relevant Answer Generation) 모델 기반으로 강의 자료를 활용해 �
    1. 원격 저장소에 올라와 있는 코드 clone 받기 
 ```
 # Docker
-git clone https://github.com/devSpartaFinal/container.git
+git clone https://github.com/cloudnine-mj/ai_quizbot.git
 ```
 2-1. Backend .env 설정 (로컬)
 ```
