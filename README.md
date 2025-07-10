@@ -587,7 +587,7 @@ const location = useLocation(); // 현재 경로 감지
 
 
 
-> <details>
+<details>
   <summary> db 컨테이너가 생성되기 전에 접속 시도</summary>
 
 (원인) DRF을 담고 있는 web 컨테이너가 db 컨테이너가 생성되기 전에 접속 시도 </br>
@@ -912,7 +912,7 @@ sudo chmod 644 /home/ubuntu/ReadRiddle/DB_test/pgadmin/pgadmin4.db
 (수정) 
 1. 채팅 Container height 속성값 줄이기
 2. 채팅 바로 위의 Container height 속성 % 줄이기, overflow: hidden 적용 
-  (부모 컨테이너를 넘어가는 것을 숨김)
+    (부모 컨테이너를 넘어가는 것을 숨김)
     </details>
 
   <details>
